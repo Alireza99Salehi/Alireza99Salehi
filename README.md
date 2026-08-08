@@ -24,6 +24,6 @@ Before diving into AI, I spent several years during my BSc at Amirkabir Universi
 ![Vision-Language Models](https://img.shields.io/badge/Vision--Language%20Models-Multimodal-green)
 ![IoT](https://img.shields.io/badge/IoT-Embedded%20AI-blue)
 
-![Followers](https://img.shields.io/github/followers/AlirezaSalehy?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/AlirezaSalehy?style=social)
+![Followers](https://img.shields.io/github/followers/Alireza99Salehi?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/Alireza99Salehi?style=social)
 
