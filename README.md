@@ -19,7 +19,7 @@ My PhD research focuses on **LLM safety**, with a current emphasis on developing
 
 <!-- 🛠️ **Embedded Systems Engineer | Modern C++ Enthusiast** &nbsp;&nbsp;<img src="https://github.com/A-R-S-D/A-R-S-D/raw/49d66e2721eef583be6cde61ff187c15a3be4ea4/resources/gifs/helloGreetingsMicroBits.gif" width="40">  -->
 Before moving into deep learning research, I spent several years during my BSc passionately working with embedded systems,
-low-level software, and modern C++. One outcome of this work is [**WAVRecorder**](https://github.com/AlirezaSalehy/WAVRecorder), a user-friendly open-source library for audio recording. 
+low-level software, and modern C++. An outcome of this work is [**WAVRecorder**](https://github.com/AlirezaSalehy/WAVRecorder), a user-friendly open-source library for audio recording. 
 
 <!-- 🔭 I’m particularly drawn to research opportunities that let me deepen my understanding of **intelligent perception systems**, especially when applied in the context of **IoT** — a long-standing passion of mine.  -->
 
