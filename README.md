@@ -1,29 +1,45 @@
-# <p> Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm <a href="https://github.com/AlirezaSalehy">Alireza</a> </p>
+<h1 align="center">Hi, I'm Alireza</h1>
 
-🎓 **MSc Student in Artificial Intelligence | University of Tehran**  
-🔍 **Research Focus**: Vision-Language Models, Anomaly Detection, Efficient Fine-Tuning 
+<p align="center">
+  <strong>PhD Researcher in Computer Science @ University of Manchester</strong>
+</p>
 
-I'm currently completing my MSc in Artificial Intelligence at the University of Tehran, where my thesis is centered on **data- and parameter-efficient fine-tuning of vision-language foundation models** for **zero-shot image anomaly detection**, which resulted in the paper [**Crane**](https://github.com/AlirezaSalehy/Crane). With a growing interest, I explore techniques for deploying **deep learning** capabilities in real-world, resource-constrained environments. 
+<p align="center">
+  LLM Safety · Formal Verification · Multimodal Learning · Anomaly Detection
+</p>
+
+My PhD research focuses on **LLM safety**, with a current emphasis on developing **formal verification methods and guarantees for the performance and reliability of large language models**. Previously, during my MSc I worked on contrastive vision-language models, with a particular focus on **data- and parameter-efficient fine-tuning of vision-language foundation models for zero-shot image anomaly detection**. Some of this work resulted in [**Crane**](https://github.com/AlirezaSalehy/Crane) and [**TIPS Over Tricks**](https://github.com/AlirezaSalehy/tipsomaly).
 
 ---
 
-🛠️ **Embedded Systems Engineer | Modern C++ Enthusiast** &nbsp;&nbsp;<img src="https://github.com/A-R-S-D/A-R-S-D/raw/49d66e2721eef583be6cde61ff187c15a3be4ea4/resources/gifs/helloGreetingsMicroBits.gif" width="40">
+<!-- #### Embedded Systems & Low-Level Development -->
+<p align="center">
+<b>Embedded Systems & Low-Level Development</b>
+</p>
 
-Before diving into AI, I spent several years during my BSc at Amirkabir University of Technology working with embedded systems and low-level development. I developed [**WAVRecorder**](https://github.com/AlirezaSalehy/WAVRecorder), a user-friendly open-source library for audio recording. 
+<!-- 🛠️ **Embedded Systems Engineer | Modern C++ Enthusiast** &nbsp;&nbsp;<img src="https://github.com/A-R-S-D/A-R-S-D/raw/49d66e2721eef583be6cde61ff187c15a3be4ea4/resources/gifs/helloGreetingsMicroBits.gif" width="40">  -->
+Before moving into deep learning research, I spent several years during my BSc passionately working with embedded systems,
+low-level software, and modern C++. One outcome of this work is [**WAVRecorder**](https://github.com/AlirezaSalehy/WAVRecorder), a user-friendly open-source library for audio recording. 
 
 <!-- 🔭 I’m particularly drawn to research opportunities that let me deepen my understanding of **intelligent perception systems**, especially when applied in the context of **IoT** — a long-standing passion of mine.  -->
 
----
-
-💬 Always happy to connect, collaborate, and learn — especially on projects that bridge embedded intelligence with scalable AI.
-
+<!--
 ## 🏷️ Research Interests
 
 ![AI](https://img.shields.io/badge/AI-Research-blue)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-ZSAD-orange)
 ![Vision-Language Models](https://img.shields.io/badge/Vision--Language%20Models-Multimodal-green)
-![IoT](https://img.shields.io/badge/IoT-Embedded%20AI-blue)
+![IoT](https://img.shields.io/badge/IoT-Embedded%20AI-blue) -->
+---
 
-![Followers](https://img.shields.io/github/followers/Alireza99Salehi?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/Alireza99Salehi?style=social)
-
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Alireza99Salehi?style=social" alt="GitHub Stars">
+  &#32;
+  <a href="https://scholar.google.com/citations?user=vjjNsxkAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=googlescholar" alt="Google Scholar">
+  </a>
+  &#32;
+  <a href="https://orcid.org/0009-0005-6657-2401">
+    <img src="https://img.shields.io/badge/ORCID-Profile-green?logo=orcid" alt="ORCID">
+  </a>
+</p>
