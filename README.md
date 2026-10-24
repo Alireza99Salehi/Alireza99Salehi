@@ -32,7 +32,7 @@ low-level software, and modern C++. An outcome of this work is [**WAVRecorder**]
 ![IoT](https://img.shields.io/badge/IoT-Embedded%20AI-blue) -->
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/github/stars/Alireza99Salehi?style=social" alt="GitHub Stars">
   &#32;
   <a href="https://scholar.google.com/citations?user=vjjNsxkAAAAJ&hl=en">
@@ -41,5 +41,17 @@ low-level software, and modern C++. An outcome of this work is [**WAVRecorder**]
   &#32;
   <a href="https://orcid.org/0009-0005-6657-2401">
     <img src="https://img.shields.io/badge/ORCID-Profile-green?logo=orcid" alt="ORCID">
+  </a>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/Alireza99Salehi">
+    <img src="https://img.shields.io/github/stars/Alireza99Salehi?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=gray&color=gray" alt="GitHub Stars">
+  </a>
+  <a href="https://scholar.google.com/citations?user=vjjNsxkAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="https://orcid.org/0009-0005-6657-2401">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
   </a>
 </p>
